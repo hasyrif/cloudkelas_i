@@ -1,3 +1,3 @@
 <?PHP
-echo 'Halo';
+echo 'Halo cloud';
 ?>
